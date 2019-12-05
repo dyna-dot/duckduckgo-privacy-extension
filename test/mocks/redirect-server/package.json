@@ -8,6 +8,6 @@
     "test": "test"
   },
   "dependencies": {
-    "nconf": "0.6.x"
+    "nconf": "0.10.0"
   }
 }
