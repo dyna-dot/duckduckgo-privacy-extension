@@ -78,7 +78,7 @@
     "object.values": "1.0.4",
     "opn": "5.1.0",
     "parse-link-header": "1.0.0",
-    "psl": "1.1.18",
+    "psl": "1.4.0",
     "punycode": "1.4.1",
     "runtimer": "1.0.3",
     "tabular-json": "0.1.3",
