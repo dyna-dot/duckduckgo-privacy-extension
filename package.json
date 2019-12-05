@@ -64,7 +64,7 @@
     "@duckduckgo/privacy-grade": "1.0.2",
     "abp-filter-parser": "git://github.com/duckduckgo/abp-filter-parser.git#0.2.0",
     "bel": "4.6.0",
-    "chalk": "2.1.0",
+    "chalk": "2.4.2",
     "change-case": "3.0.1",
     "commander": "2.11.0",
     "deep-freeze": "0.0.1",
