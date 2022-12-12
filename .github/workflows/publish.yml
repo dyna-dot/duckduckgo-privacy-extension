@@ -37,7 +37,7 @@ jobs:
         run: |
           mv build/firefox/release/web-ext-artifacts/*.zip build/firefox/release/web-ext-artifacts/duckduckgo_privacy_essentials_beta-$VERSION.zip
       - name: Publish
-        uses: softprops/action-gh-release@9729932bfb75c05ad1f6e3a729294e05abaa7001
+        uses: softprops/action-gh-release@d4e8205d7e959a9107da6396278b2f1f07af0f9b
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
