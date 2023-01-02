@@ -43,7 +43,7 @@ jobs:
 
       - name: Generate changelog
         id: changelog
-        uses: metcalfc/changelog-generator@c3f61b2a3db543ceee83c759ac8e48419a1a2211
+        uses: metcalfc/changelog-generator@c2958f1f63c4bf31fbbb5e2e45da33c5a41bc11a
         with:
           myToken: ${{ secrets.GITHUB_TOKEN }}
 
